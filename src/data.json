@@ -1,0 +1,28 @@
+{
+    "productList": [
+        {
+            "id": "0",
+            "img": "tablet",
+            "alt": "img-tablet",
+            "name": "10-Inch Tablet",
+            "price": "269",
+            "description": "Android 4.3 Jelly Bean, 10.1-inch Full HD (1920 x 1200) Display"
+        },
+        {
+            "id": "1",
+            "img": "shoe",
+            "alt": "img-shoe",
+            "name": "Running Shoe",
+            "price": "48",
+            "description": "Synthetic and Mesh, Imported, Rubber sole, Flex Film welded upper, HydraMAX moisture-wicking collar lining"
+        },
+        {
+            "id": "2",
+            "img": "watch",
+            "alt": "img-watch",
+            "name": "Slim Bracelet Watch",
+            "price": "27",
+            "description": "A narrow gold-tone bracelet supports the round case of this  watch, which features three rhinestones marking each hour and a sparkling halo on the bezel"
+        }
+    ]
+}

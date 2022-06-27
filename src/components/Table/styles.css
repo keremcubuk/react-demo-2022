@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+}
+
+table tr td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+table tr:nth-child(even) {
+    background-color: lightblue;
+}
